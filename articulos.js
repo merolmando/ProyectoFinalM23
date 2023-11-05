@@ -34,12 +34,12 @@ let S1M22 = `
         <strong>Fase 1: Promoviendo la igualdad de género en mi entorno</strong><br/><br/>
         En esta fase, se presentará una introducción que destaca la importancia de promover la igualdad de género y explora el impacto que este enfoque tendrá en el ámbito específico del proyecto. Ofrecerá una visión general del propósito y alcance de la iniciativa.
         <br/><br/>
-        <a href="https://docs.google.com/presentation/d/12Y92Z0eildrwuJIauYFloSsxre7iK8fFkWn6o_x8I1c/edit?usp=drive_link">Enlace al Documento 1</a>
+        <a href="https://docs.google.com/presentation/d/12Y92Z0eildrwuJIauYFloSsxre7iK8fFkWn6o_x8I1c/edit?usp=sharing">Enlace al Documento 1</a>
         <br/><br/><br/>
         <strong>Fase 2: Promoviendo la Igualdad de Género entre Amigos: Identificación del Problema, Causas y Consecuencias</strong><br/><br/>
         En esta fase, se identificarán los problemas relacionados con la igualdad de género que el proyecto busca abordar. Se analizarán las posibles causas de estos problemas y las consecuencias que se derivan de la falta de igualdad de género, proporcionando una base sólida para la acción.
         <br/>
-        <a href="https://docs.google.com/presentation/d/12Y92Z0eildrwuJIauYFloSsxre7iK8fFkWn6o_x8I1c/edit?usp=drive_link">Enlace al Documento 1</a>
+        <a href="https://docs.google.com/presentation/d/1RD8LxRGHOCOhhxWIscgotMfCNBs1Xq7i5SpkhYkasLU/edit?usp=sharing">Enlace al Documento 2</a>
     </p>
 `
 let S2M22 = `
@@ -48,12 +48,12 @@ let S2M22 = `
         <strong>Fase 3: Contextualización comparativa para mejorar</strong><br/><br/>
         En esta fase se llevará a cabo una investigación sobre el entorno del proyecto, examinando proyectos similares en el campo de la igualdad de género. Se compararán estos proyectos con la iniciativa propia para extraer lecciones y buenas prácticas que puedan mejorar la efectividad de la propuesta.
         <br/><br/>
-        <a href="https://docs.google.com/presentation/d/12Y92Z0eildrwuJIauYFloSsxre7iK8fFkWn6o_x8I1c/edit?usp=drive_link">Enlace al Documento 1</a>
+        <a href="https://docs.google.com/document/d/1cJ_GFWAOMOO97ZBjQMyfBv5_gLEml9SifE9oIbWbQx0/edit?usp=sharing">Enlace al Documento 3</a>
         <br/><br/><br/>
         <strong>Fase 4: Objetivos</strong><br/><br/>
         En esta fase, se establecerán los objetivos concretos que se pretenden alcanzar con el proyecto, delineando claramente las metas y los ámbitos específicos que abordará en la promoción de la igualdad de género.
         <br/><br/>
-        <a href="Enlace_al_Documento_2">Enlace al Documento 2</a>
+        <a href="https://docs.google.com/document/d/1HZRKjuNWJA-u4SG4cfnXEYq1qtyxCPCfmEy3ZeduW-k/edit?usp=sharing">Enlace al Documento 4</a>
     </p>
 `
 let S3M22 = `
@@ -62,12 +62,12 @@ let S3M22 = `
         <strong>Fase 5: Planificación Estrategias de Solución</strong><br/><br/>
         En esta fase, se diseñarán estrategias para abordar los problemas previamente identificados en relación con la igualdad de género. Se describirán las estrategias y enfoques que se utilizarán para resolver los problemas y avanzar hacia los objetivos del proyecto.
         <br/><br/>
-        <a href="https://docs.google.com/presentation/d/12Y92Z0eildrwuJIauYFloSsxre7iK8fFkWn6o_x8I1c/edit?usp=drive_link">Enlace al Documento 1</a>
+        <a href="https://docs.google.com/document/d/1kdG0ZoYZOnV_EBHGpPwwA_sdgvZoqtkBMxRRkld5BqM/edit?usp=sharing">Enlace al Documento 5</a>
         <br/><br/><br/>
         <strong>Fase 6: Planificación Rutas de Acción</strong><br/><br/>
         En esta fase, se utilizará un diagrama de flujo y un texto explicativo para desarrollar técnicas y enfoques específicos para implementar el proyecto. Se detallarán las etapas y acciones necesarias para lograr los objetivos de promoción de la igualdad de género.
         <br/><br/>
-        <a href="Enlace_al_Documento_3">Enlace al Documento 3</a>
+        <a href="https://docs.google.com/document/d/1ccei-X1LSM4fC00uyE-GmXWjF1OhBs32Fi8thB0L4CU/edit?usp=sharing">Enlace al Documento 6</a>
     </p>
 `
 let S1M23 = `
@@ -76,7 +76,7 @@ let S1M23 = `
         <strong>Fase 1: Planificación. Objetivos-metas</strong><br/><br/>
         Este documento presenta los objetivos y metas principales del proyecto, estableciendo una hoja de ruta clara para promover la igualdad de género entre amigos y en la industria tech. Describe los logros que se esperan alcanzar y proporciona un marco estratégico para el desarrollo del proyecto.
         <br/><br/>
-        <a href="Enlace_al_Documento_1">Enlace al Documento 1</a>
+        <a href="https://docs.google.com/presentation/d/1nVG78R_EOlPIAmBdHe4esevq3UZ9wYqJ5tONYd40NKM/edit?usp=sharing">Enlace al Documento 1</a>
     </p>
 `
 let S2M23 = `
@@ -85,7 +85,7 @@ let S2M23 = `
         <strong>Fase 3: Organización: Actividades, tareas, recursos y procesos</strong><br/><br/>
         Este documento de texto detalla las actividades y tareas necesarias para la ejecución del proyecto, así como los recursos y procesos esenciales para su funcionamiento eficiente. Proporciona una visión integral de la estructura y logística del proyecto de promoción de igualdad de género entre amigos y en la industria tech.
         <br/><br/>
-        <a href="Enlace_al_Documento_3">Enlace al Documento 3</a>
+        <a href="https://docs.google.com/document/d/1Q3LimCZDUm9F_4TqpEQFmzORQ4v_v98peMqP93qi75Y/edit?usp=sharing">Enlace al Documento 3</a>
     </p>
 `
 let S3M23 = `
@@ -94,12 +94,12 @@ let S3M23 = `
         <strong>Fase 5: Control. Diagrama de Gantt para gestión del proyecto</strong><br/><br/>
         En este documento, se genera un diagrama de Gantt que visualiza la planificación de todas las acciones y tareas que se llevarán a cabo en el proyecto. Ofrece una representación gráfica de la cronología de las actividades, lo que facilita la gestión y el seguimiento del proyecto de promoción de igualdad de género.
         <br/><br/>
-        <a href="https://docs.google.com/presentation/d/12Y92Z0eildrwuJIauYFloSsxre7iK8fFkWn6o_x8I1c/edit?usp=drive_link">Enlace al Documento 1</a>
+        <a href="https://docs.google.com/presentation/d/1D6haYzpq1-6eg-sXpc-ufIdJx8h8q5ra/edit?usp=sharing&ouid=116460501615911909439&rtpof=true&sd=true">Enlace al Documento 1</a>
         <br/><br/><br/>
         <strong>Fase 6: Seguimiento y evaluación del proyecto, Promoción de la Igualdad de Género entre Amigos</strong><br/><br/>
         Esta presentación aborda los aspectos cruciales para medir el éxito del proyecto de promoción de igualdad de género entre amigos y en la industria tech. Ofrece un marco para el seguimiento continuo, la evaluación y la mejora del proyecto, asegurando que se cumplan los objetivos de igualdad de género establecidos.
         <br/><br/>
-        <a href="Enlace_al_Documento_5">Enlace al Documento 5</a>
+        <a href="https://docs.google.com/document/d/1c_V2VYCr0y_nyCBgjCWP1JEATZ8deer0xQ3TgHkSsjw/edit?usp=sharing">Enlace al Documento 5</a>
     </p>
 `
 let faq = `
