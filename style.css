@@ -1,0 +1,273 @@
+:root{
+    --color-fondo-1: rgb(14, 0, 32, .8);
+    --color-fondo-2: rgb(42, 0, 96, .7);
+    --color-fondo-3: rgb(71, 0, 159, 0.9);
+    --color-fondo-4: rgb(99, 0, 223, 0.9);
+    
+    --color-borde-1: rgb(142, 255, 0, 0.7);
+    --color-borde-2: rgb(99, 0, 223, 0.9);
+    
+    --color-text-1: rgb(142, 255, 0, 0.7);
+    --color-text-2: rgb(164,255,50, 0.7);
+    --color-text-3: rgb(221,255,178, 0.7);
+    
+    --tam-fuente-1: 3vw;
+    --tam-fuente-2: 1.5vw;
+    --tam-fuente-3: 1.25vw;
+}
+@keyframes 
+    boton {
+        from 1% {
+                transform: scale(1);
+                background: var(--color-fondo-3);
+                border: 2.5px solid var(--color-borde-1);
+            }
+
+            25% {
+                transform: scale(.9);
+                background: var(--color-fondo-3);
+                border: 2.5px solid var(--color-borde-1);
+            }
+
+            50% {
+                transform: scale(1);
+                background: var(--color-fondo-3);
+                border: 2.5px solid var(--color-borde-1);
+            }
+
+            75% {
+                transform: scale(.9);
+                background: var(--color-fondo-3);
+                border: 2.5px solid var(--color-borde-1);
+            }
+
+            /* Pausa la animación cuando no se está haciendo hover */
+            100% {
+                transform: scale(1);
+                background: var(--color-fondo-3);
+                border: 2.5px solid var(--color-borde-1);
+            }
+    
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url("./Background.jpeg");
+    background-size: 20%;
+    display: grid;
+    grid-template-columns: repeat(10, 10%);
+    grid-template-rows: 15vh 150vh 20vh;
+    grid-gap: 0px;
+}
+body main *{
+    border-radius: 50px;
+    margin: 30px 5px;
+}
+header{
+    background: var(--color-fondo-2);
+    grid-column: 1/11;   
+    grid-row: 1/2; 
+    display: grid;
+    grid-template-columns: repeat(10, 10%);
+    grid-template-rows: repeat(2, 50%);
+    padding: 10px;
+}
+header img{
+    margin:auto;
+    height: 100%;
+    text-align: center;
+    grid-column: 1/2;   
+    grid-row: 1/3;
+}
+header h1{
+    background: var(--color-fondo-1);
+    color: var(--color-text-1);
+    font-size: var(--tam-fuente-1);
+    padding: 1vh;
+    margin:auto;
+    text-align: center;
+    grid-column: 2/5;   
+    grid-row: 1/3;
+}
+header nav{
+    grid-column: 5/11;   
+    grid-row: 2/3;
+    display: grid;
+    grid-template-columns: repeat(5,20%);
+}
+header nav button:hover{
+    color: var(--color-text-2);
+    animation: boton 2s infinite;
+    background: var(--color-fondo-3);
+    border: 2.5px solid var(--color-borde-1);
+}
+header nav button{
+    background: var(--color-fondo-1);
+    color: var(--color-text-2);
+    margin: auto;
+    font-size: var(--tam-fuente-2);
+    padding: 5% 15%;
+    border: 1px solid var(--color-borde-2);
+    border-radius: 10px;
+}
+main{
+    background: var(--color-fondo-1);
+    grid-column: 1/11;   
+    grid-row: 2/3;
+    display: grid;
+    overflow: scroll;
+    grid-template-columns: repeat(20, 5%);
+}
+main .banner1{
+    border-radius: 0px;
+    background: var(--color-fondo-2);
+    grid-column: 1/21;
+    background-image: url("https://th.bing.com/th/id/OIG.mIqSsiMRHy5wxG4dsg9k?pid=ImgGn");
+    background-size: 100vw auto;
+    background-repeat: no-repeat;
+    background-position: center 0%;
+    height: 100vh;
+}
+main .banner1 h1{
+    display: inline-block;
+    position: fixed relative;
+    color: var(--color-text-1);
+    background: var(--color-fondo-2);
+    font-size: 6vh;
+    padding: 15px;
+    top: 5%;
+    left: 1%;
+    position: relative;
+}
+main .banner1 p{
+    display: inline-block;
+    color: var(--color-text-1);
+    background: var(--color-fondo-1);
+    text-align: justify;
+    font-size: 3.5vh;
+    position: relative;
+    padding: 15px;
+    width: 65%;
+    top: 5%;
+    left: 8%;
+    
+}
+main section{
+    border-radius: 0px;
+    background: var(--color-fondo-2);
+    grid-column: 4/18;
+}
+main section article{
+    background: var(--color-fondo-1);
+    margin: 10px 2%;
+}
+main section h1{
+    color: var(--color-text-2);
+    background: var(--color-fondo-2);
+    text-align: center;
+    font-size: var(--tam-fuente-1);
+    margin: 3vh 10vh;
+    padding: 0px;
+}
+main section article{
+    background: var(--color-fondo-1);
+    color: var(--color-text-3);
+    text-align: justify;
+    font-size: var(--tam-fuente-3);
+    margin: 1.5vh 3vh;
+    padding: 3vh 1vh;
+    display: grid;
+    grid-template-columns: repeat(10, 10%);
+}
+main section article div{
+    grid-column: 1/11;
+    background: var(--color-fondo-3);
+    color: var(--color-text-2);
+    text-align: center;
+    font-size: var(--tam-fuente-2);
+    margin: auto;
+    padding: 1vh 1vh;
+}
+main section article h2{
+    grid-column: 1/6;
+    grid-row: 1/2;
+    background: var(--color-fondo-3);
+    color: var(--color-text-2);
+    text-align: center;
+    font-size: var(--tam-fuente-2);
+    margin: auto;
+    padding: 1vh 1vh;
+}
+main section article p{
+    grid-column: 1/11;
+    grid-row: 2/10;
+    padding: 2vh 6vw;
+    font-size: var(--tam-fuente-2);
+}
+main .artimg{
+    border-radius: 0px;
+    background: var(--color-fondo-2);
+    grid-column: 3/19;
+    margin: auto;
+}
+main .artimg article h2{
+    grid-column: 2/6;
+    grid-row: 1/2;
+    background: var(--color-fondo-3);
+    color: var(--color-text-2);
+    text-align: center;
+    font-size: var(--tam-fuente-2);
+    margin: auto;
+    padding: 1vh 1vh;
+}
+main .artimg article p{
+    grid-column: 1/7;
+    grid-row: 3/11;
+    padding: 2vh 6vw;
+    font-size: var(--tam-fuente-2);
+}
+main .artimg article img{
+    grid-column: 7/11;
+    grid-row: 2/20;
+    width: 22vw;
+    margin: auto;
+}
+/* Estilo para el div de colaborador */
+div.colaborador {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+/* Estilo para la imagen del colaborador */
+div.colaborador img {
+    width: 150px; /* Ajusta el tamaño de la imagen según tu preferencia */
+    border-radius: 50%; /* Para hacer que la imagen sea redonda */
+    margin-bottom: 10px;
+}
+footer{
+    color: var(--color-text-1);
+    background: var(--color-fondo-2);
+    grid-column: 1/11;   
+    grid-row: 3/4;
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    grid-template-rows: repeat(2, 10vh);
+    grid-gap: 5px .5%;
+}
+footer div{
+    margin: 5px;
+    background: var(--color-fondo-1);
+}
+div.question {
+    background: var(--color-fondo-2); /* Color de fondo */
+    color: var(--color-text-1); /* Color del texto */
+    padding: 10px; /* Espaciado interior */
+    margin: 10px; /* Márgenes exteriores */
+    border-radius: 50px; /* Borde redondeado */
+}
